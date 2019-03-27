@@ -1,0 +1,35 @@
+.friend-activity-card {
+    text-align: left;
+    max-width: 200px;
+    min-width: 150px;
+}
+
+.friend-activity-card .friend-activity-leftside {
+    float: left;
+    width: 80%;
+    font-size: calc(8px + 2vmin);
+}
+
+.friend-activity-card .friend-activity-rightside {
+    float: right;
+    width: 20%;
+}
+
+.friend-activity-card .friend-activity-name {
+    font-weight: bold;
+    font-size: calc(12px + 2vmin);
+}
+
+.friend-activity-card .friend-activity-timestamp {
+    float: right
+}
+
+.friend-activity-song {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;    
+}
+
+.friend-activity-timestamp {    
+    font-size: calc(8px + 2vmin);
+}
