@@ -8,7 +8,7 @@ self.__precacheManifest = [
     "url": "/react-playground/static/js/runtime~main.6f2a4546.js"
   },
   {
-    "revision": "a994a2de4c779b4f3d0a",
+    "revision": "a4f16135de575e324eb7",
     "url": "/react-playground/static/js/main.82955df4.chunk.js"
   },
   {
@@ -16,11 +16,11 @@ self.__precacheManifest = [
     "url": "/react-playground/static/js/2.2752fb64.chunk.js"
   },
   {
-    "revision": "a994a2de4c779b4f3d0a",
-    "url": "/react-playground/static/css/main.3d04f49b.chunk.css"
+    "revision": "a4f16135de575e324eb7",
+    "url": "/react-playground/static/css/main.11a35368.chunk.css"
   },
   {
-    "revision": "fbf3b55bb91a1419b1a7093796a8d5f6",
+    "revision": "5c77abb68b6e3b6a03f7bb2fab6626c5",
     "url": "/react-playground/index.html"
   }
 ];

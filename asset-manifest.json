@@ -1,5 +1,5 @@
 {
-  "main.css": "/react-playground/static/css/main.3d04f49b.chunk.css",
+  "main.css": "/react-playground/static/css/main.11a35368.chunk.css",
   "main.js": "/react-playground/static/js/main.82955df4.chunk.js",
   "main.js.map": "/react-playground/static/js/main.82955df4.chunk.js.map",
   "runtime~main.js": "/react-playground/static/js/runtime~main.6f2a4546.js",
@@ -7,8 +7,8 @@
   "static/js/2.2752fb64.chunk.js": "/react-playground/static/js/2.2752fb64.chunk.js",
   "static/js/2.2752fb64.chunk.js.map": "/react-playground/static/js/2.2752fb64.chunk.js.map",
   "index.html": "/react-playground/index.html",
-  "precache-manifest.4add3aa59d6b90d1cf8a16b7e7a9a494.js": "/react-playground/precache-manifest.4add3aa59d6b90d1cf8a16b7e7a9a494.js",
+  "precache-manifest.6a8d96fc66857104fd6df50b9b280c57.js": "/react-playground/precache-manifest.6a8d96fc66857104fd6df50b9b280c57.js",
   "service-worker.js": "/react-playground/service-worker.js",
-  "static/css/main.3d04f49b.chunk.css.map": "/react-playground/static/css/main.3d04f49b.chunk.css.map",
+  "static/css/main.11a35368.chunk.css.map": "/react-playground/static/css/main.11a35368.chunk.css.map",
   "static/media/logo.svg": "/react-playground/static/media/logo.5d5d9eef.svg"
 }
